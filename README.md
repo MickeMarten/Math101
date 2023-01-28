@@ -1,4 +1,4 @@
 # Math101
 Matematik
-Lös probleme
+Lös problemet
 Bli geni
